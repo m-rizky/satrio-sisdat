@@ -10,3 +10,5 @@ sebuah aplikasi crud sederhana yang dimana memungkinkan user untuk create read u
 menggunakan ui dari bootstrap v5.2 dan juga bahasa php dan javasvript
 
 sekian penjelasan singkat tentang tugas saya terimakasih;
+
+*note untuk akun saya ikut upload di akun teman saya dikarenakan laptop saya sedang bermasalah
